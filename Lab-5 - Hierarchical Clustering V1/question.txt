@@ -1,0 +1,12 @@
+Perform the hierarchical Clustering over the dataset and perform cluster validation using 
+
+1.Cophenetic correlation -- tabulation -- Linkage measures -- single,complete suggest best
+
+2.Davies Bouldin Index -- for best linkage -- optimum no of clusters --> k<(2,7)
+ 
+3.Dunn Index
+
+4.Silhouette
+ by varying the number of clusters identify optimum number of clusters using (2,3,4)
+
+

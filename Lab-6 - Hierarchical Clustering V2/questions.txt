@@ -1,0 +1,9 @@
+1. Perform hierarchical clustering using given distance for a given dataset. analyze the performance using CPCC for various linkage measures. Identify optimum number of cluster using Silhouette index. 
+(GPS Dataset1.csv). (10 marks)  
+a. odd roll numbers (Euclidean distance)
+b. Even roll numbers (Manhattan distance)
+plot the dentogram (5 marks)
+visualize the points using number of clusters identified using Silhouette index (Different colors for different cluster). (5 marks)
+2. Perform chi-sqaure analysis for given gss dataset
+a. explore the relationship between job preference and education status.(Job preference and education status are independent.)- visualize and interpret ( 5 marks) - Odd roll numbers
+b. are people's preference in a job(like job security, high income, short working hours etc.) associated with their highest degree received? visualize and interpret ( 5 marks) - Even roll numbers
